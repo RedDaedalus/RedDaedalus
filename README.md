@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**RedstoneDaedalus/RedstoneDaedalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer @ [DiamondFire](mcdiamondfire.com). I work on bots occasionally, and mainly work in Java (JS or C++ if I'm forced).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RedstoneDaedalus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
