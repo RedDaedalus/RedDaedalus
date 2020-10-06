@@ -6,4 +6,4 @@ Developer @ [DiamondFire](mcdiamondfire.com). I work on bots occasionally, and m
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstoneDaedalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-My Discord is `Daedalus#0001`, and my DMs are generally open. 
+Discord: `Daedalus#0001`. Feel free to not message me.
