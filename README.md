@@ -5,4 +5,4 @@ Developer @ [DiamondFire](https://www.mcdiamondfire.com). I work on bots occasio
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedDaedalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Discord: `Daedalus#0001`. Feel free to not message me.
+You can find me on Discord @ `build.gradle.kts`. I generally won't accept friend requests but you can send me a message request if you need something from me!
