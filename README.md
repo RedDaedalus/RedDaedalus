@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Developer @ [DiamondFire](https://www.mcdiamondfire.com). I work on bots occasionally, and mainly work in Java (JS or C++ if I'm forced).
+I'm a software engineer and technical manager. I code in my free time primarily in Rust, and use Java and PHP for work. I am also familiar with Python, TypeScript, Swift, and Kotlin.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedDaedalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-You can find me on Discord @ `build.gradle.kts`. I generally won't accept friend requests but you can send me a message request if you need something from me!
+You can find me on Discord @ `build.gradle.kts`.
